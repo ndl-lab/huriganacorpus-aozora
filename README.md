@@ -10,8 +10,10 @@
 
 ## 2.データについて
 zipで圧縮されており、次のURLから取得可能です。
+
 https://lab.ndl.go.jp/dataset/huriganacorpus/aozora_dataset.zip
-メタデータは次のURLから取得可能です。
+
+メタデータは本リポジトリのaozora_metadata.csvを参照してください。
 
 
 ### 2.1. データの詳細
